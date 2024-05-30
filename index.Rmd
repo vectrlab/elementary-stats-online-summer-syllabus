@@ -2,13 +2,13 @@
 title: "Syllabus"
 book_filename: psyc18
 output:
-  html_document:
-    toc: yes
-    theme: united
   word_document:
     toc: no
   pdf_document:
     toc: no
+  html_document:
+    toc: yes
+    theme: united
 ---
 
 ```{r setup, include=FALSE}
@@ -209,7 +209,7 @@ Later concepts in this course build on earlier ones, so while quizzes will focus
 
 
 ## Writing Assignments (50% of grade = 500 points)
-Five writing assignments are worth 100 points each, for a total of 500 points. As part of the writing assignments, you will write a response to a prompt about using math and statistics to solve real life problems and arrive at conclusions based on numerical and graphical data (GLEO3). Assignments will be graded for the quality of argument and for grammar and mechanics. **All writing must be original and written solely by you**. Do not use a chatbot (e.g., ChatGPT) to write your response for you. Do not copy words or phrases from other sources. If ideas or claims are from other sources, you need to cite them. You may use chatbots to help you interpret or understand, but if you copy any words the chatbot has written, then the result is academic dishonesty. You will write over 500 words across these reflection assignments, which will satisfy the writing requirement. Maps onto GELO 2.
+Five writing assignments are worth 100 points each, for a total of 500 points. As part of the writing assignments, you will write a response to a prompt about using math and statistics to solve real life problems and arrive at conclusions based on numerical and graphical data (GLEO3). Assignments will be graded for the quality of argument and for grammar and mechanics. **All writing must be original and written solely by you**. Do not use a chatbot (e.g., ChatGPT) to write your response for you. Do not copy words or phrases from other sources. If ideas or claims are from other sources, you need to cite them. You may use chatbots to help you interpret or understand, but if you copy any words the chatbot has written, then the result is academic dishonesty. You will write over 500 words across these writing assignments, which will satisfy the writing requirement. Maps onto GELO 2.
 
 ## GE Post Test Assessment (up to 10 points of extra credit)
 This quiz is given to all students taking Elementary Statistics and is required. You will get one point of extra credit for each correct answer. Complete this quiz on your own without the help of anyone else. Maps onto GELOs 1-3.
@@ -272,25 +272,31 @@ The course schedule is tentative and likely to change; modifications will be pos
 ------------------------------------------------------------------------------------------------------------------------------------------
 Week Starting Date          Topics and Assignments                                                      
 ---- ---------------------- --------------------------------------------------------------- 
-1     Mon., June 3          Intro to research and measurement Visualizing data
-                            Central tendency
-                            Assignments due Mon., June 10: Engagement week, writing assignment, problem sets, quiz, reflection assignment
-                    
+1     Mon., June 3          Intro to research and measurement \
+                            Visualizing data \
+                            Central tendency \ 
+                            \
+                            Assignments due Mon., June 10: Engagement week, writing assignment, problem sets, quiz \ 
+                            \
                              Note: Drop Deadline is June 5
 
-2     Mon., June 10          Variability Standardizing Normal distributions
+2     Mon., June 10          Variability Standardizing Normal distributions \ 
+                            \
                              Assignments due Mon., June 17: Writing assignment, problem sets, quiz
 
-3	    Mon., June 17         Sampling distributions Estimation Hypothesis testing
-                            Assignments due Mon., June 24: Writing assignment, problem sets, quiz
+3	    Mon., June 17         Sampling distributions Estimation Hypothesis testing \
+                            Assignments due Mon., June 24: Writing assignment, problem sets, quiz \
 
                             Juneteenth - Campus Closed Wed. June 19
 
-4	    Mon., June 24         T-Tests (two lessons)
+4	    Mon., June 24         T-Tests (two lessons) \
+                            \
                             Assignments due Mon., July 1: Writing assignment, problem sets, quiz
       
-5	    Mon., July 1          One-way ANOVA (two lessons) Correlation
-                            Assignments due **Friday**, July 5: Writing assignment, problem sets, quiz
+5	    Mon., July 1          One-way ANOVA (two lessons) \
+                            Correlation \
+                            \
+                            Assignments due **Friday, July 5**: Writing assignment, problem sets, quiz
 
                             Independence Day - Campus Closed Thu. July 4
 
